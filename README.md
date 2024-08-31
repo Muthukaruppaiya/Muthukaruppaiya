@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muthukaruppaiya
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Full stack development in java
-- 💞️ I’m looking to collaborate on zoho
+- 🌱 I’m currently learning Full stack development with java
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me through email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
